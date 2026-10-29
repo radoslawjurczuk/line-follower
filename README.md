@@ -29,7 +29,7 @@ The project was developed as part of the **Computer Systems Architecture** cours
 
 ## PCB
 
-![PCB](images/pcb.jpg)
+<img src="images/pcb.jpg" width="400" alt="PCB">
 
 ## Firmware
 
