@@ -29,7 +29,7 @@ The project was developed as part of the **Computer Systems Architecture** cours
 
 ## PCB
 
-<img src="images/pcb.jpg" width="400" alt="PCB">
+<img src="images/pcb.jpg" width="600" alt="PCB">
 
 ## Firmware
 
@@ -51,5 +51,7 @@ The microcontroller firmware was written in the Arduino IDE and is located in th
 
 ## Authors
 
-- **Name Surname** – [@login](https://github.com/)
-- **Name Surname** – [@login](https://github.com/)
+- **Anna Owczarzak** – [@annaowczarzak](https://github.com/annaowczarzak)
+- **Amelia Michalska** – [@ameliamichalska](https://github.com/ameliamichalska)
+- **Kacper Janoszek** – [@SurQwaski](https://github.com/SurQwaski)
+- **Radosław Jurczuk** – [@radoslawjurczuk](https://github.com/radoslawjurczuk)
