@@ -8,7 +8,7 @@ A fast line-following robot built from scratch around the ATmega328P, featuring 
 
 ## About
 
-The robot was designed and built entirely in-house: from the schematic and PCB layout in KiCad, through hand-etching the board, to the firmware. The project focuses on simplicity, low cost and speed. All electronic components are through-hole (*THT*), and the whole robot cost less than 300 PLN.
+The robot was designed and built entirely in-house: from the schematic and PCB layout in KiCad, through hand-etching the board, to the firmware. The project focuses on simplicity, low cost and speed. All electronic components are through-hole (THT), and the whole robot cost less than 300 PLN.
 
 The project was developed as part of the **Computer Systems Architecture** course at **Poznan University of Technology**.
 
